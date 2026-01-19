@@ -18,3 +18,9 @@ La carpeta se compone de 3 ficheros:
 * __EJEMPLO_USO_tkinter_utils_v1_0__: fichero .py con los ejemplos que se documentan en el manual que se comenta a continuación.
 * __MANUAL_tkinter_utils_v1_0__: fichero pdf que explica el sistema y lo ilustra con ejemplos documentados de como implementarlo en otros proyectos.
 
+Se adjuntan asismismo 2 archivos para que funcionen los ejemplos:
+
+* __ico_tapar_pluma_tkinter__: es un archivo .ico que se usa en el módulo .py de ejemplos.
+* __png_para_boton__: es un archivo .png que se usa en el módulo .py de ejemplos.
+
+

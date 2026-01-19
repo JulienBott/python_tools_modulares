@@ -1,5 +1,5 @@
 
-# Python_tools_modulares
+# python_tools_modulares
 
 Este repositorio agrupa una serie de utilidades reutilizables en Python, orientados a facilitar el desarrollo de aplicaciones de escritorio, herramientas técnicas y proyectos personales de forma limpia, modular y mantenible.
 

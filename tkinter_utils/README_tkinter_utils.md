@@ -23,4 +23,6 @@ Se adjuntan asismismo 2 archivos para que funcionen los ejemplos:
 * __ico_tapar_pluma_tkinter__: es un archivo .ico que se usa en el módulo .py de ejemplos.
 * __png_para_boton__: es un archivo .png que se usa en el módulo .py de ejemplos.
 
+Se incorporara en el futuro un log de errores de configuración de kwargs que ayude al usuario para entender porque no se configura correctamente su GUI. A dia de hoy, los errores de configuración se omiten lo que exige al usuario ser muy meticuloso en la configuración.
+
 

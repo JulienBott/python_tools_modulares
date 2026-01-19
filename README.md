@@ -23,8 +23,6 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 - sistemas hibridos entre atributos (y métodos) nativos y personalizados
 - evolución incremental y controlada
 
-Este repositorio sirve como **capa base** para otros proyectos publicados en mi perfil de GitHub.
-
 ---
 
 ## Contenido actual (actualizado 2026-01-19)

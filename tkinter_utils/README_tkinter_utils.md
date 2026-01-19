@@ -10,11 +10,11 @@ Esta carpeta ira incorporando con el tiempo __nuevas versiones incrementales, ca
 
 ## __v1.0__
 
-__Fecha implementación__: 2026-01-19
+__Fecha implementación__: 19/01/2026
 
 La carpeta se compone de 3 ficheros:
 
-* __tkinter_utils_v1_0__: fichero .py que contiene el sistema que se ha de incorporar en los proyectos Pyrhon donde se quiera usar.
+* __tkinter_utils_v1_0__: fichero .py que contiene el sistema que se ha de incorporar en los proyectos Python donde se quiera usar.
 * __EJEMPLO_USO_tkinter_utils_v1_0__: fichero .py con los ejemplos que se documentan en el manual que se comenta a continuación.
 * __MANUAL_tkinter_utils_v1_0__: fichero pdf que explica el sistema y lo ilustra con ejemplos documentados de como implementarlo en otros proyectos.
 

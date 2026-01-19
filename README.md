@@ -25,7 +25,7 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 
 ---
 
-## Contenido actual (actualizado 2026-01-19)
+## Contenido actual (actualizado 19/01/2026)
 
 #### tkinter_utils
 

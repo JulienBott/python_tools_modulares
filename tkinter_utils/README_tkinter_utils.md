@@ -63,4 +63,8 @@ se les asigna una rutina (o función) esta última tiene que estar declarada en 
 donde se realiza la llamada a la clase. __La semana que viene (semana del 26/01/2026) subire una mejora que permitira usar
 rutinas (o funciones) declaradas en otros módulos Python__.
 
+__Actualización (28/01/2026)__
+
+Las actualizaciones comentadas en el bloque __Actualización (22/01/2026)__ se posponen a la semana del 02/02/2026. Se publicaran como una nueva versión (v1.1), habran otros añadidos no comentados, Esta nueva versión sirve de base a otro proyecto que publicare también en Github la misma semana en un nuevo repositorio.
+
 

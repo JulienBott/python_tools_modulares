@@ -25,13 +25,18 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 
 ---
 
-## Contenido actual (actualizado 19/01/2026)
+## Actualización 19/01/2026
 
 #### tkinter_utils
 
 Módulo Python para integrar en otros proyectos Python que facilita la configuración de GUI's (interfaces de usuario) usando la libreria tkinter de forma limpia, dinámica y escalable.
 
 Disponible la __versión 1.0__ con guia de usuario que explica el sistema implementado con ejemplos de uso documentados.
+
+## Actualización 03/02/2026
+
+Disponible la __versión 1.1__ de __tkinter_utils__ (ver el __README_tkinter_utils__ de la carpeta tkinter_utils).
+
 
 
 

@@ -67,4 +67,23 @@ __Actualización (28/01/2026)__
 
 Las actualizaciones comentadas en el bloque __Actualización (22/01/2026)__ se posponen a la semana del 02/02/2026. Se publicaran como una nueva versión (v1.1), habran otros añadidos no comentados, Esta nueva versión sirve de base a otro proyecto que publicare también en Github la misma semana en un nuevo repositorio.
 
+---
+
+## __v1.1__
+
+__Fecha implementación__: 03/02/2026
+
+Disponible la __versión 1.1__ de tkinter_utils en la carpeta v1.1 que se compone de los ficheros siguientes: 
+
+* __tkinter_utils_v1_1__: fichero .py que contiene el sistema que se ha de incorporar en los proyectos Python donde se quiera usar.
+* __EJEMPLO_USO_tkinter_utils_v1_1__: fichero .py con los ejemplos que se documentan en el manual que se comenta a continuación.
+* __EJEMPLO_USO_tkinter_utils_v1_1_otros__: fichero .py que complementa los ejemplos del fichero anterior.
+* __MANUAL_tkinter_utils_v1_1__: fichero pdf que explica el sistema y lo ilustra con ejemplos documentados de como implementarlo en otros proyectos.
+
+* __ico_tapar_pluma_tkinter__: es un archivo .ico que se usa en el módulo .py de ejemplos.
+* __png_para_boton__: es un archivo .png que se usa en el módulo .py de ejemplos.
+* __png_messagebox_askokcancel__: es un archivo .png que se usa en el módulo .py de ejemplos.
+
+Las variaciones con respecto a la versión 1.0 se listan en __MANUAL_tkinter_utils_v1_1__ en la página 6.
+
 

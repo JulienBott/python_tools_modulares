@@ -24,6 +24,23 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 - evolución incremental y controlada
 
 ---
+__Muestra de tkinter_utils__
+
+Se puede crear un diccionario que encapsule toda la GUI de un proyecto (incluso pasando rutinas como string con o sin agumentos args / kwargs)
+
+<img width="804" height="362" alt="image" src="https://github.com/user-attachments/assets/9d415802-3ffc-41e1-b8b5-8fd230b9ad4f" />
+
+Se crea la GUI de forma dinamica:
+
+<img width="1267" height="548" alt="image" src="https://github.com/user-attachments/assets/1c45e9cf-8eba-4423-a46d-ae9b54023cda" />
+
+Es compatible tambien con creación de widgets individualizada:
+
+<img width="1146" height="633" alt="image" src="https://github.com/user-attachments/assets/333dc833-f3e2-45f6-9f5a-dbfa92181d2f" />
+
+
+---
+
 
 ## Actualización 19/01/2026
 

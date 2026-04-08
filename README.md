@@ -32,7 +32,7 @@ Se puede crear un diccionario que encapsule toda la GUI (interfaz grafica de usu
 
 Se crea la GUI de forma dinamica:
 
-<img width="1267" height="548" alt="image" src="https://github.com/user-attachments/assets/1c45e9cf-8eba-4423-a46d-ae9b54023cda" />
+<img width="801" height="456" alt="image" src="https://github.com/user-attachments/assets/2538788d-1023-4684-acc4-cdc90eedb6be" />
 
 Es compatible tambien con creación individualizada de widgets:
 

@@ -26,7 +26,7 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 ---
 ## __Muestra de tkinter_utils__
 
-Se puede crear un diccionario que encapsule toda la GUI de un proyecto (incluso pasando rutinas como string con o sin agumentos args / kwargs)
+Se puede crear un diccionario que encapsule toda la GUI (interfaz grafica de usuario) de un proyecto (incluso pasando rutinas como string con o sin agumentos args / kwargs)
 
 <img width="804" height="362" alt="image" src="https://github.com/user-attachments/assets/9d415802-3ffc-41e1-b8b5-8fd230b9ad4f" />
 

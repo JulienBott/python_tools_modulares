@@ -34,7 +34,7 @@ Se crea la GUI de forma dinamica:
 
 <img width="1267" height="548" alt="image" src="https://github.com/user-attachments/assets/1c45e9cf-8eba-4423-a46d-ae9b54023cda" />
 
-Es compatible tambien con creación de widgets individualizada:
+Es compatible tambien con creación individualizada de widgets:
 
 <img width="1146" height="633" alt="image" src="https://github.com/user-attachments/assets/333dc833-f3e2-45f6-9f5a-dbfa92181d2f" />
 

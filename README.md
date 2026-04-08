@@ -24,7 +24,7 @@ El repositorio viene acompañado de un contrato de __MIT Licence__ donde autoriz
 - evolución incremental y controlada
 
 ---
-__Muestra de tkinter_utils__
+## __Muestra de tkinter_utils__
 
 Se puede crear un diccionario que encapsule toda la GUI de un proyecto (incluso pasando rutinas como string con o sin agumentos args / kwargs)
 
